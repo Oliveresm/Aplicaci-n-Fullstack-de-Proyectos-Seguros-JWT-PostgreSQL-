@@ -103,5 +103,7 @@ npm run dev
 
 ## ✨ Autor
 
-**Christian (Oliveresm)**  
+## ✨ Autor
+
+**Oliver (Oliveresm)**  
 💻 Proyecto académico con enfoque en autenticación segura, arquitectura modular y prácticas modernas de desarrollo fullstack.
